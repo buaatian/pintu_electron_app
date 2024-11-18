@@ -1,0 +1,28 @@
+{
+  "name": "pintu-electron-app",
+  "version": "1.0.0",
+  "description": "my pintu app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/buaatian/pintu_electron_app.git"
+  },
+  "keywords": [
+    "electron",
+    "tool",
+    "pintu"
+  ],
+  "author": "tianwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buaatian/pintu_electron_app/issues"
+  },
+  "homepage": "https://github.com/buaatian/pintu_electron_app#readme",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
